@@ -32,7 +32,7 @@ function App() {
 
   return (
     <div className="font-infinity">
-      <div className="h-screen z-10 top-0 flex sm:hidden flex-col justify-end items-end px-2 py-0 text-white" 
+      <div className="h-screen z-10 top-0 flex sm:hidden flex-col justify-end items-end px-2 py-6 text-white" 
       style={{ 
         position: "sticky",
         backgroundImage: "url('/AIM07398.jpg')",
