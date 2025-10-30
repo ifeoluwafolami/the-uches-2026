@@ -1,0 +1,6 @@
+@import "tailwindcss";
+
+@theme {
+    --font-gista: "Gista Danes";
+    --font-infinity: "Infinity";   
+}

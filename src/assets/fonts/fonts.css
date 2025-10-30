@@ -1,0 +1,14 @@
+@font-face {
+    font-family: 'Gista Danes';
+    src: url('./GistaDanes.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+  font-family: 'Infinity';
+  src: url('./Infinity.ttf') format('truetype');
+  font-weight: normal;
+  font-style: normal;
+}
+
